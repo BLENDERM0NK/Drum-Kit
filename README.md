@@ -23,7 +23,7 @@ This project is a Drum Kit web application built using HTML, CSS, and JavaScript
   - JavaScript: For handling user interactions, playing sounds, and adding animations.
 
 - Setup
-  - Clone the repository: git clone https://github.com/yourusername/simon-game.git
+  - Clone the repository: git clone https://github.com/BLENDERM0NK/Drum-Kit.git
   - Navigate to the project directory: cd drum-kit
   - Open index.html in your web browser to start playing the drum kit.
  
